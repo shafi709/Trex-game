@@ -124,6 +124,8 @@ function draw() {
     obstaclesGroup.setLifetimeEach(-1);
     cloudsGroup.setLifetimeEach(-1);
     
+    background(229,8,214);
+    
     
   }
   
